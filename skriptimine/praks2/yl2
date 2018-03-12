@@ -1,0 +1,10 @@
+#!/bin/bash
+#
+# muljed ja saavutused
+#
+echo "Andres Ohu" # väljasta ees ja perenimi
+echo "ISP217"  # väljasta õppegrupp
+echo "Aine tundub huvitav" # väljasta esmamulje ja tunded
+echo "Yes" # Ei tea mida praeguse mulje kohta kirjutada
+#
+# skripti lõpp
