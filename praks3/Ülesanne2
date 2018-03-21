@@ -1,0 +1,7 @@
+#!/bin/bash
+#
+#
+echo `find /var/ -name "*.log" -exec wc -l {} + | sort -rn` #otsib /var/ kataloogist kõiki faile mis lõppeb .logiga, seejärel käivitab käsu mis loeb ridade arvu failis, ning seejärel sorteerib need suuremast arvust väiksemani
+#
+#
+#Skripti lõpp
