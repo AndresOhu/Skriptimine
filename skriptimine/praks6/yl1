@@ -1,0 +1,13 @@
+#!/bin/bash
+#skripti algus
+#
+#
+echo -n "Sisesta suvaline täisarv"
+read number
+jaak=$(($number % 2))
+if [ $jaak -eq 1 ]
+then echo "Antud arv on paaritu"
+else echo "Antud arv on paaris"
+fi
+#
+#skripti lõpp
